@@ -1,0 +1,15 @@
+DMESG:
+
+[  550.107360] usb 2-3.1: new full-speed USB device number 9 using xhci_hcd
+[  550.226672] usb 2-3.1: New USB device found, idVendor=0403, idProduct=6001, bcdDevice= 6.00
+[  550.226687] usb 2-3.1: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[  550.226693] usb 2-3.1: Product: FT232R USB UART
+[  550.226697] usb 2-3.1: Manufacturer: FTDI
+[  550.226701] usb 2-3.1: SerialNumber: A400fkTz
+[  552.048390] usbcore: registered new interface driver usbserial_generic
+[  552.048414] usbserial: USB Serial support registered for generic
+[  552.054326] usbcore: registered new interface driver ftdi_sio
+[  552.054343] usbserial: USB Serial support registered for FTDI USB Serial Device
+[  552.054450] ftdi_sio 2-3.1:1.0: FTDI USB Serial Device converter detected
+[  552.054495] usb 2-3.1: Detected FT232RL
+[  552.057375] usb 2-3.1: FTDI USB Serial Device converter now attached to ttyUSB0
